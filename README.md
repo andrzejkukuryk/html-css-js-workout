@@ -11,5 +11,3 @@ As you complete each challenge, you'll be able to submit your code for review an
 
 `I do not see any typo!`
 
-
-
